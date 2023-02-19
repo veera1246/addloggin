@@ -1,0 +1,168 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body
+{
+    background-image:linear-gradient(90deg,red,blue);
+    background-repeat:no-repeat;
+    background-size:100% 1100px;
+}
+
+    
+#div
+{
+width:50%;
+height:50px;
+border:2px solid black;
+position:relative;
+top:25%;
+left:25%;
+border-radius: 20px;
+border-color:white;
+border-color:royalblue;
+
+}
+        
+#div2
+{
+ width:80%;
+height:800px;
+background-image:linear-gradient(-90deg,hotpink,skyblue) ;
+background-repeat: no-repeat;
+ background-position: left 300px top 80px;
+ 
+
+}
+         #div3
+          {
+            width:50%;
+            height:600px;
+            background-color:black;
+            background-size: 50% 500px;
+            position:absolute;
+            top:200px;
+            left:400px;
+            bottom:500px;
+            border-radius:30px 30px 30px 30px;
+           
+         }
+         
+        #h1
+        {
+            
+        }
+        
+        #a
+        {
+            width:60%;
+            height:40px;
+            border:none;
+            outline:none; 
+            font-size:30px;
+            border-radius:10px;
+            position:absolute;
+            bottom:3px;
+            left:10px;
+            background-color: transparent;
+            color:white;
+            
+
+        }
+        #b
+        {
+            width:40px;
+            padding:5px 0px 0px 5px;
+            position:absolute;
+            right:10px;
+            border-radius:10px;
+            top:1px;
+        }
+        #login
+        {
+            position:absolute;
+            top:400px;
+            left:300px;
+            width:150px;
+            height:50px;
+            font-size:25px;
+            border-radius: 20px;
+            background-color: transparent;
+            color:silver;
+            border-color:rgb(126, 252, 0);
+        }
+
+        #email
+        {
+            position:relative;
+            top:20%;
+            left:25%;
+            font-size:25px;
+            border-radius:20px 20px 20px 20px;
+            width:50%;
+            height:50px;
+            background-color: transparent;
+            color:white;
+            border-color:royalblue;
+            text-align:center;
+        }
+        
+        #section
+        { 
+            width:30%;
+            height:50px;
+            background-color:transparentdw;
+            position:absolute;
+            top:80%;
+            left:34%;
+            padding:10px;
+        }
+        a
+        {
+           color:white; 
+           font-size:35px;
+        }
+        #fb
+        {
+            color:blue;
+        }
+        #insta
+        {
+            color:orangered;
+        }
+        #twi
+        {
+            color:skyblue;
+
+        }
+        i{
+            padding:15px;
+        }
+        #h1
+        {
+            color:white;
+            z-index:10;
+            position:relative;
+            left:40%;
+            top:50px;
+            font-size:45px;
+            letter-spacing:5px;
+        }
+        #result
+        {
+            color:white;
+            position:relative;
+            top:23%;
+            left:25%;
+            font-size:25px;
+        }
+        #result3
+        {
+            color:white;
+            font-size:25px;
+            position:absolute;
+            top:350px;
+            left:250px;
+        }
+        
+
